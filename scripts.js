@@ -53,7 +53,7 @@ function stop() {
 
 function trocarCor() {
     h1.style.backgroundColor = (`#100956`);
-    h1.style.color = (`#8f84cc`)
+    h1.style.color = (`#1f00cd`)
 }
 
 function trocarCor2() {

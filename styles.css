@@ -52,21 +52,21 @@ button {
 }
 
 .button-1:active{
-    font-size: 600%;
+    font-size: 400%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #8f84cc00;
     box-shadow: 1px 1px 100px #8f84cc00;
 }
 
 .button-2:active{
-    font-size: 600%;
+    font-size: 400%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #8f84cc00;
     box-shadow: 1px 1px 100px #8f84cc00;
 }
 
 .button-3:active{
-    font-size: 600%;
+    font-size: 400%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #8f84cc00;
     box-shadow: 1px 1px 100px #8f84cc00;
