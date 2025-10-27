@@ -14,13 +14,13 @@ h1 {
     font-size: 700%;
     margin: 10vh 0 15vh 0;
     color: #150b51;
-    background-color:#1f00cd;
+    background-color: #1f00cd;
 }
 
 button {
     font-size: 400%;
     color: #150b51;
-    background-color:#1f00cd;
+    background-color: #1f00cd;
     border-color: #311aac;
     border-width: 1vw;
 }
@@ -30,42 +30,42 @@ button {
 }
 
 
-.button-1:hover{
+.button-1:hover {
     font-size: 600%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #ffffff;
     box-shadow: 1px 1px 100px #8f84cc;
 }
 
-.button-2:hover{
+.button-2:hover {
     font-size: 600%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #ffffff;
     box-shadow: 1px 1px 100px #8f84cc;
 }
 
-.button-3:hover{
+.button-3:hover {
     font-size: 600%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #ffffff;
     box-shadow: 1px 1px 100px #8f84cc;
 }
 
-.button-1:active{
+.button-1:active {
     font-size: 400%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #8f84cc00;
     box-shadow: 1px 1px 100px #8f84cc00;
 }
 
-.button-2:active{
+.button-2:active {
     font-size: 400%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #8f84cc00;
     box-shadow: 1px 1px 100px #8f84cc00;
 }
 
-.button-3:active{
+.button-3:active {
     font-size: 400%;
     color: #8f84cc;
     text-shadow: 1px 1px 10px #8f84cc00;

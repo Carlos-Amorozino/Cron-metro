@@ -22,7 +22,7 @@ function start() {
         startButton.style.display = `none`;
 
         stopButton.disabled = false;
-    stopButton.style.display = `inline`;
+        stopButton.style.display = `inline`;
     }
 
     body.style.backgroundColor = (`#311aac`)
